@@ -1,6 +1,12 @@
-Auditorium-TorVergata
-=====================
+Auditorium - Control Room
+=========================
 
-Patch create con Max6 su MacOs X
+[] 8 altoparlanti ad anello
+[] 8 sorgenti virtuali planari
+[] 36 altoparlanti a soffitto
+[] 8 sorgenti virtuali TOP
+[] controllo TASCAM 24 ch
+[] allineamento altoparlanti
+[] UI 
 
 Patch basate sugli external ICST
